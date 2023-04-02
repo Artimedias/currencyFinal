@@ -35,7 +35,7 @@
 
 ## Known Bugs
 
-* _Project is currently non functional due to a CORS issue preventing api calls from being made._ 
+None
 
 ## License
 
